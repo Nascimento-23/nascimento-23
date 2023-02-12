@@ -27,6 +27,8 @@ https://picrew.me/image_maker/338224/complete?cd=eWLflWwp4g
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nascimento-23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img align="right" alt="Nathy-Emoji" height="210" width="200" src="https://cdn.picrew.me/shareImg/org/202302/338224_NetJz0zF.png">
    
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nascimento-23&bg_color=0d1117&color=FFFFFF&line=DAA520&point=87CEEB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimento-23&layout=compact&langs_count=16&theme=dracula"/> -->
 </div>
 <div style="display: inline_block"><br>
