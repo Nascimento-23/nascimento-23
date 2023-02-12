@@ -35,6 +35,6 @@ site para fazer gif fofos:
   <img align="center" alt="NATHY-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   
   <img align="right" alt="Nathy-Emoji" src="https://cdn.picrew.me/shareImg/org/202302/338224_NetJz0zF.png">
-  ![Snake animation](https://github.com/nascimento-23/nascimento-23/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/nascimento-23/nascimento-23/blob/GITHUB_OUTPUT/github-contribution-grid-snake.svg)
 </div>
   
