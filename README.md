@@ -36,7 +36,4 @@ https://picrew.me/image_maker/338224/complete?cd=eWLflWwp4g
   <img align="center" alt="Nathy-c++" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Nathy-Arduino" height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="NATHY-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  
-  <!--![Snake animation](https://github.com/nascimento-23/nascimento-23/blob/output/github-contribution-grid-snake.svg) -->
-</div>
-  
+
